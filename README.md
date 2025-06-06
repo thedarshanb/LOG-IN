@@ -1,2 +1,2 @@
-# LOG-IN
-Login Animation page
+# LOG-IN Animation Page
+
